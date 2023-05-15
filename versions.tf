@@ -5,4 +5,5 @@ terraform {
       source  = "datadog/datadog"
       version = "~> 3.16"
     }
+  }
 }
